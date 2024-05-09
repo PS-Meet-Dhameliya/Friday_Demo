@@ -1,0 +1,22 @@
+{
+    "SUBSTANCE": {
+        "CREATED": 5940,
+        "UPDATED": 45712,
+        "DELETED": 1183
+    },
+    "LEGISLATION": {
+        "CREATED": 2,
+        "UPDATED": 55,
+        "DELETED": 0
+    },
+    "LEGISLATION_LIST": {
+        "CREATED": 1,
+        "UPDATED": 84,
+        "DELETED": 0
+    },
+    "LEGISLATION_LIST_ENTRY": {
+        "CREATED": 78498,
+        "UPDATED": 55085,
+        "DELETED": 204118
+    }
+}

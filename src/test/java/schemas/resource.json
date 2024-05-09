@@ -1,0 +1,510 @@
+[
+    {
+        "businessKey": "VSK-00000000-0000-0000-0000-000000088125",
+        "substanceType": "CHEMICAL",
+        "substanceCategory": "SINGLE",
+        "resourceType": "SUBSTANCE",
+        "resourceStatus": "UPDATED",
+        "groupType": null,
+        "members": [],
+        "identifiers": [
+            {
+                "type": "CAS_NUMBER",
+                "otherIdentifierDescription": null,
+                "value": "7440-43-9",
+                "languageCode": "en"
+            },
+            {
+                "type": "EC_NUMBER",
+                "otherIdentifierDescription": null,
+                "value": "231-152-8",
+                "languageCode": "en"
+            },
+            {
+                "type": "IUPAC_NAME",
+                "otherIdentifierDescription": null,
+                "value": "cadmium",
+                "languageCode": "en"
+            },
+            {
+                "type": "MOLECULAR_FORMULA",
+                "otherIdentifierDescription": null,
+                "value": "Cd",
+                "languageCode": "en"
+            },
+            {
+                "type": "NAME",
+                "otherIdentifierDescription": null,
+                "value": "Cadmium",
+                "languageCode": "en"
+            },
+            {
+                "type": "NAME",
+                "otherIdentifierDescription": null,
+                "value": "Cadmium compounds",
+                "languageCode": "en"
+            },
+            {
+                "type": "NAME",
+                "otherIdentifierDescription": null,
+                "value": "C.I. 77180",
+                "languageCode": "en"
+            },
+            {
+                "type": "NAME",
+                "otherIdentifierDescription": null,
+                "value": "Colloidal cadmium",
+                "languageCode": "en"
+            },
+            {
+                "type": "NAME",
+                "otherIdentifierDescription": null,
+                "value": "Kadmium",
+                "languageCode": "en"
+            }
+        ]
+    },
+    {
+        "businessKey": "EU-CHEM_AGENTS",
+        "shortTitle": {
+            "englishText": "CAD - Chemical Agents Directive",
+            "originalLanguageCode": "en",
+            "originalLanguageText": "CAD - Chemical Agents Directive"
+        },
+        "longTitle": {
+            "englishText": "Council Directive 98/24/EC of 7 April 1998 on the protection of the health and safety of workers from the risks related to chemical agents at work (fourteenth individual Directive within the meaning of Article 16(1) of Directive 89/391/EEC)",
+            "originalLanguageCode": "en",
+            "originalLanguageText": "Council Directive 98/24/EC of 7 April 1998 on the protection of the health and safety of workers from the risks related to chemical agents at work (fourteenth individual Directive within the meaning of Article 16(1) of Directive 89/391/EEC)"
+        },
+        "description": "This directive lays down minimum requirements to protect workers from risks to their health and safety from the effects of chemicals they may encounter in the course of their job. It sets out exposure limit values and preventive measures.",
+        "fullLegislationLink": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31998L0024",
+        "legislationSummaryLink": "https://eur-lex.europa.eu/legal-content/EN/LSU/?uri=CELEX:31998L0024&qid=1559757313154",
+        "legislationProfile": [
+            {
+                "sectionId": "ELV_INFO",
+                "contentGroups": [
+                    [
+                        {
+                            "contentType": "TEXT",
+                            "text": "No provision",
+                            "url": null
+                        }
+                    ]
+                ]
+            },
+            {
+                "sectionId": "EXEMPTIONS",
+                "contentGroups": [
+                    [
+                        {
+                            "contentType": "TEXT",
+                            "text": "Prohibition of the production, manufacture or use at work of the chemical agents and activities involving chemical agents listed in Annex III does not apply if these Annex III-listed chemical agents are present in another chemical agent, or as a constituent of waste, provided that their individual concentration therein is less than the limit specified in Annex III (Art. 9 & Annex IIIa).",
+                            "url": null
+                        }
+                    ]
+                ]
+            },
+            {
+                "sectionId": "FORMAT_INDUSTRY",
+                "contentGroups": [
+                    [
+                        {
+                            "contentType": "TEXT",
+                            "text": "Not applicable",
+                            "url": null
+                        }
+                    ]
+                ]
+            },
+            {
+                "sectionId": "HISTORY",
+                "contentGroups": [
+                    [
+                        {
+                            "contentType": "TEXT",
+                            "text": "Directive 2007/30/EC of the European Parliament and of the Council of 20 June 2007 amending Council Directive 89/391/EEC, its individual Directives and Council Directives 83/477/EEC, 91/383/EEC, 92/29/EEC and 94/33/EC with a view to simplifying and rationalising the reports on practical implementation",
+                            "url": null
+                        },
+                        {
+                            "contentType": "TEXT",
+                            "text": "Directive 2014/27/EU of the European Parliament and of the Council of 26 February 2014 amending Council Directives 92/58/EEC, 92/85/EEC, 94/33/EC, 98/24/EC and Directive 2004/37/EC of the European Parliament and of the Council, in order to align them to Regulation (EC) No 1272/2008 on classification, labelling and packaging of substances and mixtures",
+                            "url": null
+                        },
+                        {
+                            "contentType": "TEXT",
+                            "text": "Regulation (EU) 2019/1243 of the European Parliament and of the Council of 20 June 2019 adapting a number of legal acts providing for the use of the regulatory procedure with scrutiny to Articles 290 and 291 of the Treaty on the Functioning of the European Union",
+                            "url": null
+                        }
+                    ]
+                ]
+            },
+            {
+                "sectionId": "LEG_DATA_OWNER",
+                "contentGroups": [
+                    [
+                        {
+                            "contentType": "TEXT",
+                            "text": "DG EMPL",
+                            "url": null
+                        }
+                    ]
+                ]
+            },
+            {
+                "sectionId": "MAINTENANCE_PROCESS",
+                "contentGroups": [
+                    [
+                        {
+                            "contentType": "TEXT",
+                            "text": "Not applicable",
+                            "url": null
+                        }
+                    ]
+                ]
+            },
+            {
+                "sectionId": "OBL_CLP",
+                "contentGroups": [
+                    [
+                        {
+                            "contentType": "TEXT",
+                            "text": "Reference is made to Regulation (EC) No 1272/2008.",
+                            "url": null
+                        }
+                    ]
+                ]
+            },
+            {
+                "sectionId": "OBL_CONCERN",
+                "contentGroups": [
+                    [
+                        {
+                            "contentType": "TEXT",
+                            "text": "CMR (in combination with CMD), ED, explosive, oxidising, flammable, toxic, harmful, corrosive, irritants, sensitisers",
+                            "url": null
+                        }
+                    ]
+                ]
+            },
+            {
+                "sectionId": "OEL_INFO",
+                "contentGroups": [
+                    [
+                        {
+                            "contentType": "TEXT",
+                            "text": "Annex I - binding occupational exposure limits",
+                            "url": null
+                        }
+                    ]
+                ]
+            },
+            {
+                "sectionId": "REFERENCE_DATA",
+                "contentGroups": [
+                    [
+                        {
+                            "contentType": "TEXT",
+                            "text": "Not applicable",
+                            "url": null
+                        }
+                    ]
+                ]
+            },
+            {
+                "sectionId": "REFERENCE_DOCS",
+                "contentGroups": [
+                    [
+                        {
+                            "contentType": "TEXT",
+                            "text": "The following list highlights some of the EU legal acts referenced in the Chemical Agents Directive 98/24/EC (CAD). Each heading provides the section of CAD in which the legal act appears, followed by the name of the Directive or Regulation referenced and in what context.",
+                            "url": null
+                        },
+                        {
+                            "contentType": "TEXT",
+                            "text": "Throughout CAD:",
+                            "url": null
+                        },
+                        {
+                            "contentType": "TEXT",
+                            "text": "Directive 89/391/EEC on the introduction of measures to encourage improvements in the safety and health of workers is referred to throughout CAD in relation to it being the occupational safety and health (OSH) framework Directive.",
+                            "url": null
+                        },
+                        {
+                            "contentType": "TEXT",
+                            "text": "Recital 13:",
+                            "url": null
+                        },
+                        {
+                            "contentType": "TEXT",
+                            "text": "Directive 90/492/EEC (repealed and replaced by Directive 1999/45/EC and subsequently amended and replaced by CLP Regulation 1272/2008 on the classification, labelling and packaging of substances and mixtures) is referred to in Recital 13 in relation to safety data sheets.",
+                            "url": null
+                        },
+                        {
+                            "contentType": "TEXT",
+                            "text": "Directive 92/58/EEC on the minimum requirements for the provision of safety and/or health signs at work is also referred to in Recital 13 in relation to signs at work.",
+                            "url": null
+                        },
+                        {
+                            "contentType": "TEXT",
+                            "text": "Recital 21:",
+                            "url": null
+                        },
+                        {
+                            "contentType": "TEXT",
+                            "text": "Directive 91/322/EEC on establishing indicative limit values by implementing Council Directive 80/1107/EEC on the protection of workers from the risks related to exposure to chemical, physical and biological agents at work (amended by Directive 2006/15/EC) is referenced in Recital 21 in relation to indicative limit values and the maintenance of these.",
+                            "url": null
+                        },
+                        {
+                            "contentType": "TEXT",
+                            "text": "Article 2:",
+                            "url": null
+                        },
+                        {
+                            "contentType": "TEXT",
+                            "text": "Directive 67/548/EEC (amended and replaced by the Regulation 1272/2008/EC on the classification, labelling and packaging of substances and mixtures) [DSD] and others are referenced in relation to the definition of a hazardous chemical agent.",
+                            "url": null
+                        },
+                        {
+                            "contentType": "TEXT",
+                            "text": "Article 4:",
+                            "url": null
+                        },
+                        {
+                            "contentType": "TEXT",
+                            "text": "Directive 67/548/EEC (amended and replaced by the Regulation 1272/2008/EC on the classification, labelling and packaging of substances and mixtures) [DSD] and others are referenced in relation to safety data sheets for employers carrying out their risk assessment.",
+                            "url": null
+                        },
+                        {
+                            "contentType": "TEXT",
+                            "text": "Article 6:",
+                            "url": null
+                        },
+                        {
+                            "contentType": "TEXT",
+                            "text": "Directive 94/9/EC on the approximation of laws of the Member States concerning equipment and protective systems intended for use in potentially explosive atmospheres is referenced in relation to equipment group categorisation being taken into account in technical and organisational measures to be employed by the employer.",
+                            "url": null
+                        },
+                        {
+                            "contentType": "TEXT",
+                            "text": "Article 8:",
+                            "url": null
+                        },
+                        {
+                            "contentType": "TEXT",
+                            "text": "Directive 67/548/EEC (amended and replaced by the Regulation 1272/2008/EC on the classification, labelling and packaging of substances and mixtures) and others in reference to the obligation to supply information on hazardous chemical agents.",
+                            "url": null
+                        }
+                    ]
+                ]
+            },
+            {
+                "sectionId": "REG_ACTIVITIES",
+                "contentGroups": [
+                    [
+                        {
+                            "contentType": "TEXT",
+                            "text": "Employers' Obligations (Section II)",
+                            "url": null
+                        },
+                        {
+                            "contentType": "TEXT",
+                            "text": "Art. 4(1) Risk assessment - In carrying out the obligations laid down in Articles 6(3) and 9(1) of Directive 89/391/EEC, the employer shall first determine whether any hazardous chemical agents are present at the workplace. If so, he shall then assess any risk to the safety and health of workers arising from the presence of those chemical agents, taking into consideration the criteria listed in Art. 4(1).",
+                            "url": null
+                        },
+                        {
+                            "contentType": "TEXT",
+                            "text": "Art. 4(2) Risk assessment - The risk assessment shall be kept up-to-date, particularly if there have been significant changes which could render it out-of-date, or when the results of health surveillance show it to be necessary.",
+                            "url": null
+                        },
+                        {
+                            "contentType": "TEXT",
+                            "text": "Art. 4(4) Risk assessment - In the case of activities involving exposure to several hazardous chemical agents, the risk shall be assessed on the basis of the risk presented by all such chemical agents in combination.",
+                            "url": null
+                        },
+                        {
+                            "contentType": "TEXT",
+                            "text": "Art. 6 Specific protection and prevention measures - The employer shall ensure that the risk from a hazardous chemical agent to the safety and health of workers at work is eliminated or reduced to a minimum (Art. 6(1)). In applying paragraph 1, substitution shall by preference be undertaken, whereby the employer shall avoid the use of a hazardous chemical agent by replacing it with a chemical agent or process which, under its condition of use, is not hazardous or less hazardous to workers' safety and health, as the case may be. Where the nature of the activity does not permit risk to be eliminated by substitution, having regard to the activity and risk assessment referred to in Article 4, the employer shall ensure that the risk is reduced to a minimum by application of protection and prevention measures, consistent with the assessment of the risk made pursuant to Article 4 (Art. 6(2)). These protection and prevention measures are listed in order of priority in Art. 6(2).",
+                            "url": null
+                        }
+                    ]
+                ]
+            },
+            {
+                "sectionId": "SCOPE",
+                "contentGroups": [
+                    [
+                        {
+                            "contentType": "TEXT",
+                            "text": "This Directive lays down the minimum requirements for the protection of workers from risk to their health and safety arising, or likely to arise, from the effects of chemical agents that are present in the workplace or as a result of any work involving chemical agents.",
+                            "url": null
+                        }
+                    ]
+                ]
+            },
+            {
+                "sectionId": "SUB_DATA_SOURCE",
+                "contentGroups": [
+                    [
+                        {
+                            "contentType": "TEXT",
+                            "text": "No",
+                            "url": null
+                        }
+                    ]
+                ]
+            },
+            {
+                "sectionId": "SYSTEM_INDUSTRY",
+                "contentGroups": [
+                    [
+                        {
+                            "contentType": "TEXT",
+                            "text": "Not applicable",
+                            "url": null
+                        }
+                    ]
+                ]
+            }
+        ],
+        "regionCode": "EU",
+        "legislationListKeys": [
+            "EU-CHEM_AGENTS-ANX_I_OEL",
+            "EU-CHEM_AGENTS-ANX_II_BLV",
+            "EU-CHEM_AGENTS-ANX_III_PROHIB",
+            "EU-CHEM_AGENTS-ART_2_b_i_HZD_AGNT"
+        ],
+        "resourceStatus": "UPDATED",
+        "resourceType": "LEGISLATION"
+    },
+    {
+        "businessKey": "EU-CHEM_AGENTS-ART_2_b_i_HZD_AGNT",
+        "shortTitle": {
+            "englishText": "CAD - Chemical Agents Directive, Article 2(b)(i) - Hazardous Agents",
+            "originalLanguageCode": "en",
+            "originalLanguageText": "CAD - Chemical Agents Directive, Article 2(b)(i) - Hazardous Agents"
+        },
+        "longTitle": {
+            "englishText": "EU. Hazardous Substances - Article 2(b)(i), Directive 98/24/EC on Protection of Workers from Chemical Agent-related Risks, 5 May 1998 (Table 3 of Annex VI to CLP, as amended)",
+            "originalLanguageCode": "en",
+            "originalLanguageText": "EU. Hazardous Substances - Article 2(b)(i), Directive 98/24/EC on Protection of Workers from Chemical Agent-related Risks, 5 May 1998 (Table 3 of Annex VI to CLP, as amended)"
+        },
+        "description": "This list contains a non-exhaustive inventory based on the list of substances with harmonised classification and labelling (i.e., Table 3 of Annex VI to the CLP Regulation 1272/2008/EC). While the harmonised list covers many hazardous substances, others not listed may also meet the classification criteria in accordance with the CLP Regulation.",
+        "listType": "DERIVED",
+        "obligationType": "INFO",
+        "specification": [
+            {
+                "fieldId": "fld_pref",
+                "fieldName": "Name",
+                "fieldType": "TEXT",
+                "fieldDescription": "Substance Name",
+                "fields": []
+            },
+            {
+                "fieldId": "fld_cas",
+                "fieldName": "CAS",
+                "fieldType": "TEXT",
+                "fieldDescription": "CAS RN or other identifier.",
+                "fields": []
+            }
+        ],
+        "resourceStatus": "UPDATED",
+        "resourceType": "LEGISLATION_LIST"
+    },
+    {
+        "businessKey": "VSK-001A62",
+        "ecNumbers": [
+            "207-396-6"
+        ],
+        "casNumbers": [
+            "467-63-0"
+        ],
+        "names": [
+            "Colouring agent CI 42555:1"
+        ],
+        "values": [
+            {
+                "value": 0.0,
+                "unit": {
+                    "englishText": "%",
+                    "originalLanguageCode": "en",
+                    "originalLanguageText": null
+                },
+                "valueType": "NUMBER",
+                "fieldId": "fld_erc2_maxthres",
+                "subEntryFrom": 0,
+                "subEntryTo": 0,
+                "valueOrder": 0,
+                "remarks": null
+            },
+            {
+                "value": {
+                    "englishText": "All cosmetic products",
+                    "originalLanguageCode": "en",
+                    "originalLanguageText": null
+                },
+                "valueType": "TEXT",
+                "fieldId": "fld_erc2_appname",
+                "subEntryFrom": 0,
+                "subEntryTo": 0,
+                "valueOrder": 1,
+                "remarks": null
+            },
+            {
+                "value": {
+                    "englishText": "380",
+                    "originalLanguageCode": "en",
+                    "originalLanguageText": null
+                },
+                "valueType": "TEXT",
+                "fieldId": "fld_erc2_id",
+                "subEntryFrom": 0,
+                "subEntryTo": 0,
+                "valueOrder": 0,
+                "remarks": null
+            },
+            {
+                "value": {
+                    "englishText": "467-63-0",
+                    "originalLanguageCode": "en",
+                    "originalLanguageText": null
+                },
+                "valueType": "TEXT",
+                "fieldId": "fld_cas",
+                "subEntryFrom": 0,
+                "subEntryTo": 0,
+                "valueOrder": 0,
+                "remarks": null
+            },
+            {
+                "value": {
+                    "englishText": "Colouring agent CI 42555:1",
+                    "originalLanguageCode": "en",
+                    "originalLanguageText": null
+                },
+                "valueType": "TEXT",
+                "fieldId": "fld_pref",
+                "subEntryFrom": 0,
+                "subEntryTo": 0,
+                "valueOrder": 0,
+                "remarks": null
+            },
+            {
+                "value": {
+                    "englishText": "207-396-6",
+                    "originalLanguageCode": "en",
+                    "originalLanguageText": null
+                },
+                "valueType": "TEXT",
+                "fieldId": "fld_erc2_ec",
+                "subEntryFrom": 0,
+                "subEntryTo": 0,
+                "valueOrder": 0,
+                "remarks": null
+            }
+        ],
+        "substanceId": "VSK-00000000-0000-0000-0000-000000055858",
+        "legislationListKey": "EU-COSM_PROD-ANX_II_PROHIB",
+        "resourceStatus": "UPDATED",
+        "resourceType": "LEGISLATION_LIST_ENTRY"
+    }
+]

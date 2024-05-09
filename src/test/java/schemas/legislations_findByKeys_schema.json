@@ -1,0 +1,661 @@
+[
+    {
+        "businessKey": "EU-DETERGENTS",
+        "shortTitle": {
+            "englishText": "Detergents Regulation",
+            "originalLanguageCode": "en",
+            "originalLanguageText": "Detergents Regulation"
+        },
+        "longTitle": {
+            "englishText": "Regulation (EC) No 648/2004 of the European Parliament and of the Council of 31 March 2004 on detergents (Text with EEA relevance)",
+            "originalLanguageCode": "en",
+            "originalLanguageText": "Regulation (EC) No 648/2004 of the European Parliament and of the Council of 31 March 2004 on detergents (Text with EEA relevance)"
+        },
+        "description": "Regulation (EC) No 648/2004 on detergents ensures that only detergents with surfactants that are fully biodegradable may be placed on the market. In addition, detergent labels must contain ingredient and dosage information. This is to protect the health of consumers, especially against allergies, and to avoid the over-use of detergents.",
+        "fullLegislationLink": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32004R0648",
+        "legislationSummaryLink": "https://eur-lex.europa.eu/legal-content/EN/LSU/?uri=CELEX:02004R0648-20150601",
+        "legislationProfile": [
+            {
+                "sectionId": "ELV_INFO",
+                "contentGroups": [
+                    [
+                        {
+                            "contentType": "TEXT",
+                            "text": "No provision",
+                            "url": null
+                        }
+                    ]
+                ]
+            },
+            {
+                "sectionId": "EXEMPTIONS",
+                "contentGroups": [
+                    [
+                        {
+                            "contentType": "TEXT",
+                            "text": "Not Specified",
+                            "url": null
+                        }
+                    ]
+                ]
+            },
+            {
+                "sectionId": "FORMAT_INDUSTRY",
+                "contentGroups": [
+                    [
+                        {
+                            "contentType": "TEXT",
+                            "text": "Not applicable",
+                            "url": null
+                        }
+                    ]
+                ]
+            },
+            {
+                "sectionId": "HISTORY",
+                "contentGroups": [
+                    [
+                        {
+                            "contentType": "TEXT",
+                            "text": "Commission Regulation (EC) No 907/2006 of 20 June 2006",
+                            "url": null
+                        },
+                        {
+                            "contentType": "TEXT",
+                            "text": "Regulation (EC) No 1336/2008 of the European Parliament and of the Council of 16 December 2008",
+                            "url": null
+                        },
+                        {
+                            "contentType": "TEXT",
+                            "text": "Regulation (EC) No 219/2009 of the European Parliament and of the Council of 11 March 2009",
+                            "url": null
+                        },
+                        {
+                            "contentType": "TEXT",
+                            "text": "Commission Regulation (EC) No 551/2009 of 25 June 2009",
+                            "url": null
+                        },
+                        {
+                            "contentType": "TEXT",
+                            "text": "Regulation (EU) No 259/2012 of the European Parliament and of the Council of 14 March 2012",
+                            "url": null
+                        }
+                    ]
+                ]
+            },
+            {
+                "sectionId": "LEG_DATA_OWNER",
+                "contentGroups": [
+                    [
+                        {
+                            "contentType": "TEXT",
+                            "text": "DG GROW (in the context of being a 'legislation owner')",
+                            "url": null
+                        }
+                    ]
+                ]
+            },
+            {
+                "sectionId": "MAINTENANCE_PROCESS",
+                "contentGroups": [
+                    [
+                        {
+                            "contentType": "TEXT",
+                            "text": "Updates of Annexes V and VI are carried out by the Commission and the Committee. DG GROW and the Committee in the context of maintenance and update of Annexes V and VI",
+                            "url": null
+                        }
+                    ]
+                ]
+            },
+            {
+                "sectionId": "OBL_CLP",
+                "contentGroups": [
+                    [
+                        {
+                            "contentType": "TEXT",
+                            "text": "Yes.",
+                            "url": null
+                        },
+                        {
+                            "contentType": "TEXT",
+                            "text": "Article 11. Labelling. The provisions of these articles are without prejudice to the provisions relating to the classification, packaging and labelling of dangerous substances and preparations in Directive 67/548/EEC and 1999/45/EC. This needs to be aligned with the Classification, Labelling and Packaging regulation.",
+                            "url": null
+                        }
+                    ]
+                ]
+            },
+            {
+                "sectionId": "OBL_CONCERN",
+                "contentGroups": [
+                    [
+                        {
+                            "contentType": "TEXT",
+                            "text": "No specific provisions",
+                            "url": null
+                        }
+                    ]
+                ]
+            },
+            {
+                "sectionId": "OEL_INFO",
+                "contentGroups": [
+                    [
+                        {
+                            "contentType": "TEXT",
+                            "text": "No specific provisions",
+                            "url": null
+                        }
+                    ]
+                ]
+            },
+            {
+                "sectionId": "REFERENCE_DATA",
+                "contentGroups": [
+                    [
+                        {
+                            "contentType": "TEXT",
+                            "text": "No reference data indicated",
+                            "url": null
+                        }
+                    ]
+                ]
+            },
+            {
+                "sectionId": "REFERENCE_DOCS",
+                "contentGroups": [
+                    [
+                        {
+                            "contentType": "TEXT",
+                            "text": "yes",
+                            "url": null
+                        },
+                        {
+                            "contentType": "TEXT",
+                            "text": "Directive 2004/9/EC on the inspection and verification of good laboratory practice",
+                            "url": null
+                        },
+                        {
+                            "contentType": "TEXT",
+                            "text": "Directive 1999/45/EC concerning the approximation of the laws, regulations and administrative provisions of the Member States relating to the classification, packaging and labelling of dangerous preparations",
+                            "url": null
+                        },
+                        {
+                            "contentType": "TEXT",
+                            "text": "Decision 1999/468/EC",
+                            "url": null
+                        },
+                        {
+                            "contentType": "TEXT",
+                            "text": "Regulation (EC) No 1223/2009 on cosmetic products",
+                            "url": null
+                        }
+                    ]
+                ]
+            },
+            {
+                "sectionId": "REG_ACTIVITIES",
+                "contentGroups": [
+                    [
+                        {
+                            "contentType": "TEXT",
+                            "text": "Granting of derogation (Art.5)",
+                            "url": null
+                        },
+                        {
+                            "contentType": "TEXT",
+                            "text": "The request by a manufacturer for derogation shall be made by sending an application to the competent authority of the Member State concerned and to the Commission, providing evidence relating to the criteria mentioned under Art. 6(1). No procedure is established at the European Union level for submission of application for derogation. The competent authority of the Member State will review the application and, in case that it is rejected, it will inform the manufacturer and the Commission. If the application for derogation is approved, the Commission will inform the relevant Committee and launch the comitology procedure. It is important to note that the derogation applies in all Member States.",
+                            "url": null
+                        }
+                    ]
+                ]
+            },
+            {
+                "sectionId": "SCOPE",
+                "contentGroups": [
+                    [
+                        {
+                            "contentType": "TEXT",
+                            "text": "This Regulation establishes rules designed to achieve the free movement of detergents and surfactants for detergents in the internal market while, at the same time, ensuring a high degree of protection of the environment and human health. (Art. 1)",
+                            "url": null
+                        },
+                        {
+                            "contentType": "TEXT",
+                            "text": "'Detergent' means any substance or mixture soaps and/or other surfactants intended for washing and cleaning processes. (Art. 2 (1))",
+                            "url": null
+                        },
+                        {
+                            "contentType": "TEXT",
+                            "text": "Definitions of a 'substance' and 'mixture' are harmonised with REACH regulation.",
+                            "url": null
+                        }
+                    ]
+                ]
+            },
+            {
+                "sectionId": "SUB_DATA_SOURCE",
+                "contentGroups": [
+                    [
+                        {
+                            "contentType": "TEXT",
+                            "text": "No specific database established for this Regulation",
+                            "url": null
+                        }
+                    ]
+                ]
+            },
+            {
+                "sectionId": "SYSTEM_INDUSTRY",
+                "contentGroups": [
+                    [
+                        {
+                            "contentType": "TEXT",
+                            "text": "No submission (electronic) system in place",
+                            "url": null
+                        }
+                    ]
+                ]
+            }
+        ],
+        "regionCode": "EU",
+        "legislationListKeys": [
+            "EU-DETERGENTS-ANX_VII",
+            "EU-DETERGENTS-ANX_V_VIa"
+        ],
+        "resourceStatus": "UPDATED",
+        "resourceType": "LEGISLATION"
+    },
+    {
+        "businessKey": "EU-ECOLABEL",
+        "shortTitle": {
+            "englishText": "EU Ecolabel Regulation",
+            "originalLanguageCode": "en",
+            "originalLanguageText": "EU Ecolabel Regulation"
+        },
+        "longTitle": {
+            "englishText": "Regulation (EC) No 66/2010 of the European Parliament and of the Council of 25 November 2009 on the EU Ecolabel (Text with EEA relevance)",
+            "originalLanguageCode": "en",
+            "originalLanguageText": "Regulation (EC) No 66/2010 of the European Parliament and of the Council of 25 November 2009 on the EU Ecolabel (Text with EEA relevance)"
+        },
+        "description": "Established in 1992 and recognised across Europe and worldwide, the EU Ecolabel is a label of environmental excellence that is awarded to products and services meeting high environmental standards throughout their life-cycle: from raw material extraction, to production, distribution and disposal.",
+        "fullLegislationLink": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32010R0066",
+        "legislationSummaryLink": "https://eur-lex.europa.eu/legal-content/EN/LSU/?uri=CELEX:32010R0066",
+        "legislationProfile": [
+            {
+                "sectionId": "ELV_INFO",
+                "contentGroups": [
+                    [
+                        {
+                            "contentType": "TEXT",
+                            "text": "No provision. Product-specific emission limits are set in Commission Decisions establishing EU Ecolabel criteria for product groups, where applicable.",
+                            "url": null
+                        }
+                    ]
+                ]
+            },
+            {
+                "sectionId": "EXEMPTIONS",
+                "contentGroups": [
+                    [
+                        {
+                            "contentType": "TEXT",
+                            "text": "Exempt from the regulation are medicinal products for human use, as defined in Directive 2001/83/EC relating to medicinal products for human use, or for veterinary use as defined in Directive 2001/82/EC relating to veterinary medicinal products. Also, the regulation does not apply to any type of medical devices.",
+                            "url": null
+                        }
+                    ]
+                ]
+            },
+            {
+                "sectionId": "FORMAT_INDUSTRY",
+                "contentGroups": [
+                    [
+                        {
+                            "contentType": "TEXT",
+                            "text": "A User Manual is established for each product group to facilitate the application process. To access the User Manuals, please visit the European Commission's EU Ecolabel website.",
+                            "url": null
+                        }
+                    ]
+                ]
+            },
+            {
+                "sectionId": "HISTORY",
+                "contentGroups": [
+                    [
+                        {
+                            "contentType": "TEXT",
+                            "text": "Corrigendum to Regulation (EC) No 66/2010 of the European Parliament and of the Council of 25 November 2009 on the EU Ecolabel",
+                            "url": null
+                        },
+                        {
+                            "contentType": "TEXT",
+                            "text": "Commission Regulation (EU) No 782/2013 of 14 August 2013 amending Annex III to Regulation (EU) No 66/2010 of the European Parliament and of the Council on the EU Ecolabel",
+                            "url": null
+                        },
+                        {
+                            "contentType": "TEXT",
+                            "text": "Commission Regulation (EU) 2017/1941 of 24 October 2017 amending Annex II to Regulation (EC) No 66/2010 of the European Parliament and of the Council on the EU Ecolabel",
+                            "url": null
+                        }
+                    ]
+                ]
+            },
+            {
+                "sectionId": "LEG_DATA_OWNER",
+                "contentGroups": [
+                    [
+                        {
+                            "contentType": "TEXT",
+                            "text": "DG Environment - for issues related to Ecolabel",
+                            "url": null
+                        }
+                    ]
+                ]
+            },
+            {
+                "sectionId": "MAINTENANCE_PROCESS",
+                "contentGroups": [
+                    [
+                        {
+                            "contentType": "TEXT",
+                            "text": "DG Environment and MS competent bodies",
+                            "url": null
+                        }
+                    ]
+                ]
+            },
+            {
+                "sectionId": "OBL_CLP",
+                "contentGroups": [
+                    [
+                        {
+                            "contentType": "TEXT",
+                            "text": "Pursuant to Article 6(6), the EU Ecolabel may not be awarded to goods containing substances or mixtures meeting the criteria for classification as toxic, hazardous to the environment, carcinogenic, mutagenic or toxic for reproduction (CMR), in accordance with the CLP Regulation (1272/2008/EC).",
+                            "url": null
+                        }
+                    ]
+                ]
+            },
+            {
+                "sectionId": "OBL_CONCERN",
+                "contentGroups": [
+                    [
+                        {
+                            "contentType": "TEXT",
+                            "text": "Pursuant to Article 6 (6) and (7), the EU Ecolabel may not be awarded to goods containing substances referred to in Article 57 (i.e., substances of very high concern (SVHCs)) of the REACH Regulation (1907/2006/EC), nor to goods containing substances that are identified according to the procedure described in Article 59(1) of REACH, present in mixtures, in an article or in any homogeneous part of a complex article in concentrations higher than 0,1 % (weight by weight).",
+                            "url": null
+                        }
+                    ]
+                ]
+            },
+            {
+                "sectionId": "OEL_INFO",
+                "contentGroups": [
+                    [
+                        {
+                            "contentType": "TEXT",
+                            "text": "Not applicable",
+                            "url": null
+                        }
+                    ]
+                ]
+            },
+            {
+                "sectionId": "REFERENCE_DATA",
+                "contentGroups": [
+                    [
+                        {
+                            "contentType": "TEXT",
+                            "text": "EU Ecolabel can be awarded to products for which criteria have been established.",
+                            "url": null
+                        },
+                        {
+                            "contentType": "TEXT",
+                            "text": "They include*:",
+                            "url": null
+                        },
+                        {
+                            "contentType": "TEXT",
+                            "text": "Absorbent Hygiene Products",
+                            "url": null
+                        },
+                        {
+                            "contentType": "TEXT",
+                            "text": "Animal Care Products",
+                            "url": null
+                        },
+                        {
+                            "contentType": "TEXT",
+                            "text": "Cosmetic Products",
+                            "url": null
+                        },
+                        {
+                            "contentType": "TEXT",
+                            "text": "Hard Surface Cleaning Products",
+                            "url": null
+                        },
+                        {
+                            "contentType": "TEXT",
+                            "text": "Detergents for Dishwashers",
+                            "url": null
+                        },
+                        {
+                            "contentType": "TEXT",
+                            "text": "Industrial and Institutional Automatic Dishwasher Detergents",
+                            "url": null
+                        },
+                        {
+                            "contentType": "TEXT",
+                            "text": "Hand Dishwashing Detergents",
+                            "url": null
+                        },
+                        {
+                            "contentType": "TEXT",
+                            "text": "Laundry Detergents",
+                            "url": null
+                        },
+                        {
+                            "contentType": "TEXT",
+                            "text": "Industrial and Institutional Laundry Detergents",
+                            "url": null
+                        },
+                        {
+                            "contentType": "TEXT",
+                            "text": "Indoor Cleaning Services",
+                            "url": null
+                        },
+                        {
+                            "contentType": "TEXT",
+                            "text": "Textile products",
+                            "url": null
+                        },
+                        {
+                            "contentType": "TEXT",
+                            "text": "Footwear",
+                            "url": null
+                        },
+                        {
+                            "contentType": "TEXT",
+                            "text": "Paints and Varnishes",
+                            "url": null
+                        },
+                        {
+                            "contentType": "TEXT",
+                            "text": "Electronic Displays",
+                            "url": null
+                        },
+                        {
+                            "contentType": "TEXT",
+                            "text": "Wood-, cork- and bamboo-based floor coverings",
+                            "url": null
+                        },
+                        {
+                            "contentType": "TEXT",
+                            "text": "Hard Covering Products",
+                            "url": null
+                        },
+                        {
+                            "contentType": "TEXT",
+                            "text": "Furniture",
+                            "url": null
+                        },
+                        {
+                            "contentType": "TEXT",
+                            "text": "Bed Mattresses",
+                            "url": null
+                        },
+                        {
+                            "contentType": "TEXT",
+                            "text": "Growing Media, Soil Improvers and Mulch",
+                            "url": null
+                        },
+                        {
+                            "contentType": "TEXT",
+                            "text": "Lubricants",
+                            "url": null
+                        },
+                        {
+                            "contentType": "TEXT",
+                            "text": "Graphic paper, Tissue paper and Tissue products",
+                            "url": null
+                        },
+                        {
+                            "contentType": "TEXT",
+                            "text": "Printed Paper, Stationery Paper, Paper Carrier Bag Products",
+                            "url": null
+                        },
+                        {
+                            "contentType": "TEXT",
+                            "text": "Tourist Accommodation",
+                            "url": null
+                        },
+                        {
+                            "contentType": "TEXT",
+                            "text": "*For the complete, up-to-date list of products with EU Ecolabel criteria, please visit the European Commission’s EU Ecolabel website.",
+                            "url": null
+                        }
+                    ]
+                ]
+            },
+            {
+                "sectionId": "REFERENCE_DOCS",
+                "contentGroups": [
+                    [
+                        {
+                            "contentType": "TEXT",
+                            "text": "Complementary to the EU Ecolabel Regulation, technical EU Ecolabel criteria for each product group are defined in corresponding Commission Decisions. These criteria have as their objective to decrease the main environmental impacts over the entire life cycle of the product.",
+                            "url": null
+                        },
+                        {
+                            "contentType": "TEXT",
+                            "text": "For example, following are several Commission Decisions and the respective product types they cover*:",
+                            "url": null
+                        },
+                        {
+                            "contentType": "TEXT",
+                            "text": "• Commission Decision 2014/763/EU of 24 October 2014 establishing the ecological criteria for the award of the EU Ecolabel for absorbent hygiene products",
+                            "url": null
+                        },
+                        {
+                            "contentType": "TEXT",
+                            "text": "• Commission Decision (EU) 2021/1870 of 22 October 2021 establishing the EU Ecolabel criteria for cosmetic products and animal care products",
+                            "url": null
+                        },
+                        {
+                            "contentType": "TEXT",
+                            "text": "• Commission Decision (EU) 2017/1217 of 23 June 2017 establishing the EU Ecolabel criteria for hard surface cleaning products",
+                            "url": null
+                        },
+                        {
+                            "contentType": "TEXT",
+                            "text": "• Commission Decision (EU) 2017/1216 of 23 June 2017 establishing the EU Ecolabel criteria for dishwasher detergents",
+                            "url": null
+                        },
+                        {
+                            "contentType": "TEXT",
+                            "text": "The process is carried out in accordance with the provisions of Annex I of the EU Ecolabel Regulation and can be led by the Commission, Member States, competent bodies and other stakeholders. It is currently led almost always by the Commission, DG ENV, with the scientific support of JRC.",
+                            "url": null
+                        },
+                        {
+                            "contentType": "TEXT",
+                            "text": "*For the complete, up-to-date list of these Commission Decisions, please visit the European Commission’s EU Ecolabel website.",
+                            "url": null
+                        }
+                    ]
+                ]
+            },
+            {
+                "sectionId": "REG_ACTIVITIES",
+                "contentGroups": [
+                    [
+                        {
+                            "contentType": "TEXT",
+                            "text": "EU Ecolabel criteria for different product groups are established through Commission Decisions that are developed according to Annex I of the EU Ecolabel Regulation and adopted through the Regulatory Procedure with Scrutiny.",
+                            "url": null
+                        },
+                        {
+                            "contentType": "TEXT",
+                            "text": "The Regulation defines for any operator who wishes to use the EU Ecolabel the rules for application and award of the EU Ecolabel, and also terms and conditions of its use.",
+                            "url": null
+                        },
+                        {
+                            "contentType": "TEXT",
+                            "text": "EU Ecolabel competent bodies are responsible for assessing and verifying compliance with the EU Ecolabel criteria and to award the EU Ecolabel. They shall verify compliance on a regular basis. The competent bodies shall, as appropriate, also undertake such verification upon complaint. These verifications may take the form of random spot-checks.",
+                            "url": null
+                        }
+                    ]
+                ]
+            },
+            {
+                "sectionId": "SCOPE",
+                "contentGroups": [
+                    [
+                        {
+                            "contentType": "TEXT",
+                            "text": "This Regulation lays down rules for the establishment and implementation of the voluntary EU Ecolabel scheme. It applies to any goods or services which are supplied for distribution, consumption or use on the Community market, whether in return for payment or free of charge.",
+                            "url": null
+                        }
+                    ]
+                ]
+            },
+            {
+                "sectionId": "SUB_DATA_SOURCE",
+                "contentGroups": [
+                    [
+                        {
+                            "contentType": "TEXT",
+                            "text": "Regulation does not contain any explicit list of substances and/or list of products.",
+                            "url": null
+                        }
+                    ]
+                ]
+            },
+            {
+                "sectionId": "SYSTEM_INDUSTRY",
+                "contentGroups": [
+                    [
+                        {
+                            "contentType": "TEXT",
+                            "text": "Operators applying for the EU Ecolabel are required to submit an application to the relevant competent body.",
+                            "url": null
+                        },
+                        {
+                            "contentType": "TEXT",
+                            "text": "The application procedure is explained on the European Commission's EU Ecolabel website at the following location: Ecolabel/Ecolabel for Businesses/How to Apply for EU Ecolabel.",
+                            "url": null
+                        },
+                        {
+                            "contentType": "TEXT",
+                            "text": "The Ecolabel Product Catalogue (ECAT) is the online registry of EU Ecolabel products that is also hosted on the European Commission's website.",
+                            "url": null
+                        }
+                    ]
+                ]
+            }
+        ],
+        "regionCode": "EU",
+        "legislationListKeys": [
+            "EU-ECOLABEL-ART_6_6"
+        ],
+        "resourceStatus": "UPDATED",
+        "resourceType": "LEGISLATION"
+    }
+]

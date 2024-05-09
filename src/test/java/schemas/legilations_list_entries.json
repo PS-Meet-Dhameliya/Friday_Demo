@@ -1,0 +1,196 @@
+[
+    {
+        "businessKey": "VSK-00188D",
+        "ecNumbers": [
+            "202-809-6"
+        ],
+        "casNumbers": [
+            "100-00-5"
+        ],
+        "names": [
+            "1-Chloro-4-nitrobenzene"
+        ],
+        "values": [
+            {
+                "value": 0.0,
+                "unit": {
+                    "englishText": "%",
+                    "originalLanguageCode": "en",
+                    "originalLanguageText": null
+                },
+                "valueType": "NUMBER",
+                "fieldId": "fld_erc2_maxthres",
+                "subEntryFrom": 0,
+                "subEntryTo": 0,
+                "valueOrder": 0,
+                "remarks": null
+            },
+            {
+                "value": {
+                    "englishText": "All cosmetic products",
+                    "originalLanguageCode": "en",
+                    "originalLanguageText": null
+                },
+                "valueType": "TEXT",
+                "fieldId": "fld_erc2_appname",
+                "subEntryFrom": 0,
+                "subEntryTo": 0,
+                "valueOrder": 1,
+                "remarks": null
+            },
+            {
+                "value": {
+                    "englishText": "1179",
+                    "originalLanguageCode": "en",
+                    "originalLanguageText": null
+                },
+                "valueType": "TEXT",
+                "fieldId": "fld_erc2_id",
+                "subEntryFrom": 0,
+                "subEntryTo": 0,
+                "valueOrder": 0,
+                "remarks": null
+            },
+            {
+                "value": {
+                    "englishText": "100-00-5",
+                    "originalLanguageCode": "en",
+                    "originalLanguageText": null
+                },
+                "valueType": "TEXT",
+                "fieldId": "fld_cas",
+                "subEntryFrom": 0,
+                "subEntryTo": 0,
+                "valueOrder": 0,
+                "remarks": null
+            },
+            {
+                "value": {
+                    "englishText": "1-Chloro-4-nitrobenzene",
+                    "originalLanguageCode": "en",
+                    "originalLanguageText": null
+                },
+                "valueType": "TEXT",
+                "fieldId": "fld_pref",
+                "subEntryFrom": 0,
+                "subEntryTo": 0,
+                "valueOrder": 0,
+                "remarks": null
+            },
+            {
+                "value": {
+                    "englishText": "202-809-6",
+                    "originalLanguageCode": "en",
+                    "originalLanguageText": null
+                },
+                "valueType": "TEXT",
+                "fieldId": "fld_erc2_ec",
+                "subEntryFrom": 0,
+                "subEntryTo": 0,
+                "valueOrder": 0,
+                "remarks": null
+            }
+        ],
+        "substanceId": "VSK-00000000-0000-0000-0000-000000000689",
+        "legislationListKey": "EU-COSM_PROD-ANX_II_PROHIB",
+        "resourceStatus": "UPDATED",
+        "resourceType": "LEGISLATION_LIST_ENTRY"
+    },
+    {
+        "businessKey": "VSK-00188E",
+        "ecNumbers": [
+            "233-131-9"
+        ],
+        "casNumbers": [
+            "10042-76-9"
+        ],
+        "names": [
+            "Strontium nitrate"
+        ],
+        "values": [
+            {
+                "value": 0.0,
+                "unit": {
+                    "englishText": "%",
+                    "originalLanguageCode": "en",
+                    "originalLanguageText": null
+                },
+                "valueType": "NUMBER",
+                "fieldId": "fld_erc2_maxthres",
+                "subEntryFrom": 0,
+                "subEntryTo": 0,
+                "valueOrder": 0,
+                "remarks": null
+            },
+            {
+                "value": {
+                    "englishText": "All cosmetic products",
+                    "originalLanguageCode": "en",
+                    "originalLanguageText": null
+                },
+                "valueType": "TEXT",
+                "fieldId": "fld_erc2_appname",
+                "subEntryFrom": 0,
+                "subEntryTo": 0,
+                "valueOrder": 1,
+                "remarks": null
+            },
+            {
+                "value": {
+                    "englishText": "403",
+                    "originalLanguageCode": "en",
+                    "originalLanguageText": null
+                },
+                "valueType": "TEXT",
+                "fieldId": "fld_erc2_id",
+                "subEntryFrom": 0,
+                "subEntryTo": 0,
+                "valueOrder": 0,
+                "remarks": null
+            },
+            {
+                "value": {
+                    "englishText": "10042-76-9",
+                    "originalLanguageCode": "en",
+                    "originalLanguageText": null
+                },
+                "valueType": "TEXT",
+                "fieldId": "fld_cas",
+                "subEntryFrom": 0,
+                "subEntryTo": 0,
+                "valueOrder": 0,
+                "remarks": null
+            },
+            {
+                "value": {
+                    "englishText": "Strontium nitrate",
+                    "originalLanguageCode": "en",
+                    "originalLanguageText": null
+                },
+                "valueType": "TEXT",
+                "fieldId": "fld_pref",
+                "subEntryFrom": 0,
+                "subEntryTo": 0,
+                "valueOrder": 0,
+                "remarks": null
+            },
+            {
+                "value": {
+                    "englishText": "233-131-9",
+                    "originalLanguageCode": "en",
+                    "originalLanguageText": null
+                },
+                "valueType": "TEXT",
+                "fieldId": "fld_erc2_ec",
+                "subEntryFrom": 0,
+                "subEntryTo": 0,
+                "valueOrder": 0,
+                "remarks": null
+            }
+        ],
+        "substanceId": "VSK-00000000-0000-0000-0000-000000000509",
+        "legislationListKey": "EU-COSM_PROD-ANX_II_PROHIB",
+        "resourceStatus": "UPDATED",
+        "resourceType": "LEGISLATION_LIST_ENTRY"
+    }
+]

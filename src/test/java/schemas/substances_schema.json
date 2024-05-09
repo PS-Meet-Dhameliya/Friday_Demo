@@ -1,0 +1,114 @@
+[
+    {
+        "businessKey": "VSK-00000000-0000-0000-0000-000000000003",
+        "substanceType": "CHEMICAL",
+        "substanceCategory": "SINGLE",
+        "resourceType": "SUBSTANCE",
+        "resourceStatus": "UPDATED",
+        "groupType": null,
+        "members": [],
+        "identifiers": [
+            {
+                "type": "CAS_NUMBER",
+                "otherIdentifierDescription": null,
+                "value": "68130-14-3",
+                "languageCode": "en"
+            },
+            {
+                "type": "MOLECULAR_FORMULA",
+                "otherIdentifierDescription": null,
+                "value": "C2H4O2.xH3O4P.xUnspecified",
+                "languageCode": "en"
+            },
+            {
+                "type": "NAME",
+                "otherIdentifierDescription": null,
+                "value": "Acetylated distarch phosphate",
+                "languageCode": "en"
+            }
+        ]
+    },
+    {
+        "businessKey": "VSK-00000000-0000-0000-0000-000000000005",
+        "substanceType": "CHEMICAL",
+        "substanceCategory": "SINGLE",
+        "resourceType": "SUBSTANCE",
+        "resourceStatus": "UPDATED",
+        "groupType": null,
+        "members": [],
+        "identifiers": [
+            {
+                "type": "CAS_NUMBER",
+                "otherIdentifierDescription": null,
+                "value": "9005-34-9",
+                "languageCode": "en"
+            },
+            {
+                "type": "CAS_NUMBER",
+                "otherIdentifierDescription": null,
+                "value": "9036-51-5",
+                "languageCode": "en"
+            },
+            {
+                "type": "EC_NUMBER",
+                "otherIdentifierDescription": null,
+                "value": "618-411-4",
+                "languageCode": "en"
+            },
+            {
+                "type": "NAME",
+                "otherIdentifierDescription": null,
+                "value": "Alginic acid, ammonium salt",
+                "languageCode": "en"
+            },
+            {
+                "type": "NAME",
+                "otherIdentifierDescription": null,
+                "value": "Ammonium alginate",
+                "languageCode": "en"
+            },
+            {
+                "type": "NAME",
+                "otherIdentifierDescription": null,
+                "value": "Ammonium polymannurate",
+                "languageCode": "en"
+            },
+            {
+                "type": "NAME",
+                "otherIdentifierDescription": null,
+                "value": "Analgine",
+                "languageCode": "en"
+            },
+            {
+                "type": "NAME",
+                "otherIdentifierDescription": null,
+                "value": "Callatex",
+                "languageCode": "en"
+            },
+            {
+                "type": "NAME",
+                "otherIdentifierDescription": null,
+                "value": "Collatex ARM Extra",
+                "languageCode": "en"
+            },
+            {
+                "type": "NAME",
+                "otherIdentifierDescription": null,
+                "value": "Digamon",
+                "languageCode": "en"
+            },
+            {
+                "type": "NAME",
+                "otherIdentifierDescription": null,
+                "value": "Protomon",
+                "languageCode": "en"
+            },
+            {
+                "type": "NAME",
+                "otherIdentifierDescription": null,
+                "value": "Superloid",
+                "languageCode": "en"
+            }
+        ]
+    }
+]
