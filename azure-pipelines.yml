@@ -44,7 +44,7 @@ steps:
 - task: PublishBuildArtifacts@1
   displayName: 'Publish Extent Report'
   inputs:
-    PathtoPublish: './extentreport.html'
+    PathtoPublish: './extent-report.html'
     ArtifactName: 'ExtentReport'
     publishLocation: 'Container'
   condition: always()  # Publish the report whether the build succeeds or fails
