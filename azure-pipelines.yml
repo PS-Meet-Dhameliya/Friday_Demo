@@ -1,0 +1,67 @@
+# Maven
+# Build your Java project and run tests with Apache Maven.
+# Add steps that analyze code, save build artifacts, deploy, and more:
+# https://docs.microsoft.com/azure/devops/pipelines/languages/java
+
+trigger:
+- master
+
+pool:
+  vmImage: windows-latest
+ 
+steps:
+- task: Bash@3
+  inputs:
+    targetType: 'inline'
+    script: |
+      # Write your commands here
+      cd API_Automation/src/test/java/schemas/
+      ls -r 
+      
+- task: Maven@3
+  inputs:
+    mavenPomFile: './pom.xml'
+    mavenOptions: '-Xmx3072m'
+    javaHomeOption: 'JDKVersion'
+    jdkVersionOption: '17'
+    jdkArchitectureOption: 'x64'
+    publishJUnitResults: true
+    testResultsFiles: '**/surefire-reports/TEST-*.xml'
+    goals: 'test'
+  condition: always()
+ 
+ 
+- task: Bash@3
+  displayName: 'List Report Directory Contents'
+  inputs:
+    targetType: 'inline'
+    script: |
+     cd API_Automation
+      ls -r
+  condition: always()
+ 
+  # Publish the Extent Report as an artifact
+- task: PublishBuildArtifacts@1
+  displayName: 'Publish Extent Report'
+  inputs:
+    PathtoPublish: './API_Automation/extentreport.html'
+    ArtifactName: 'ExtentReport'
+    publishLocation: 'Container'
+  condition: always()  # Publish the report whether the build succeeds or fails
+ 
+ 
+ 
+# Send notification to Microsoft Teams with a link to the artifact
+- task: PowerShell@2
+  displayName: 'Notify Microsoft Teams'
+  inputs:
+    targetType: 'inline'
+    script: |
+      $webhookUrl = "https://productsquads1.webhook.office.com/webhookb2/4d6e9b07-b8aa-4ec5-bdcf-1c05451d24f4@058c37d3-71cf-4a95-94a5-033acaf07be5/IncomingWebhook/de7a05ed35e342eb9a3191f364202169/7f6afc71-82c6-43c2-a22c-9ecd77c72e89"
+      $buildUrl = "$(System.TeamFoundationCollectionUri)$(System.TeamProject)/_build/results?buildId=$(Build.BuildId)"
+      $message = "Build successful! View the Extent Report [here]($buildUrl)"
+      $body = ConvertTo-Json -Depth 10 @{
+          text = $message
+      }
+      Invoke-RestMethod -Uri $webhookUrl -Method Post -ContentType 'Application/Json' -Body $body
+  condition: succeededOrFailed()  # Notify only on successful build
