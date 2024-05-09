@@ -126,6 +126,14 @@
                     <includes>
                         <include>**/*TestRunner.java</include>
                     </includes>
+			<systemPropertyVariables>
+            <extent.reporter.spark.start>true</extent.reporter.spark.start>
+            <extent.reporter.spark.out>extent-report.html</extent.reporter.spark.out>
+            <systeminfo.os>windows</systeminfo.os>
+            <systeminfo.Engineer>meet</systeminfo.Engineer>
+            <systeminfo.Project>CucumberAPIFramework</systeminfo.Project>
+            <systeminfo.Browser>Google Chrome</systeminfo.Browser>
+        </systemPropertyVariables>
                 </configuration>
             </plugin>
         </plugins>
